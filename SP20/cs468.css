@@ -118,3 +118,8 @@ a:hover {
 .color-danger {
     color: #d9534f;
 }
+
+.title {
+    text-align:center; 
+    color:#800000;
+}
