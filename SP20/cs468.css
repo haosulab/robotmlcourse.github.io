@@ -93,25 +93,25 @@ a:hover {
     padding: 9px 8px 0px 8px;
 }
 
-#hor-zebra {
+.hor-zebra {
     font-size: 14px;
     text-align: left;
     width: 800px;
     border-collapse: collapse;
 }
 
-#hor-zebra th {
+.hor-zebra th {
     font-size: 16px;
     font-weight: bold;
     padding: 10px 8px;
     background: #e8edff;
 }
 
-#hor-zebra td {
+.hor-zebra td {
     padding: 8px;
 }
 
-#hor-zebra .odd {
+.hor-zebra .odd {
     background: #e8edff;
 }
 
